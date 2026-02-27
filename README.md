@@ -6,9 +6,6 @@
 
 
 <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=gduchidze&theme=darkhub&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
-            <br/>
-            <br/>
         <img src="https://streak-stats.demolab.com/?user=gduchidze&theme=tokyonight"/>
             <br/>
             <br/>

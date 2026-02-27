@@ -24,8 +24,4 @@ HeHe you're in my ReadMe
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gduchidze&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gduchidze&theme=tokyonight">
             <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gduchidze&theme=tokyonight">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gduchidze&theme=tokyonight">
-            <br/>
-            <br/>
 </p>

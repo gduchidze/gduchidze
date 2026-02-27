@@ -11,22 +11,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gduchidze&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gduchidze&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">

@@ -28,7 +28,4 @@ HeHe you're in my ReadMe
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gduchidze&theme=tokyonight">
             <br/>
             <br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gduchidze&theme=rogue"/>
-            <br/>
-            <br/>
 </p>

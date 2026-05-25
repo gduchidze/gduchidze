@@ -4,6 +4,6 @@
             <br/>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/georgia/USERNAME.svg)](https://user-badge.committers.top/georgia/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/georgia/USERNAME.svg)](https://user-badge.committers.top/georgia/gduchidze)
 
-[![committers.top badge](https://user-badge.committers.top/georgia/USERNAME.svg)](https://user-badge.committers.top/georgia/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/georgia/USERNAME.svg)](https://user-badge.committers.top/georgia/gduchidze)

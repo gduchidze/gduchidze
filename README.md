@@ -3,3 +3,5 @@
             <br/>
             <br/>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/georgia_private/USERNAME.svg)](https://user-badge.committers.top/georgia_private/gduchidze)

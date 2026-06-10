@@ -2,7 +2,7 @@
 
 ###
 <strong>About Me</strong>
-<h5 align="left">I'm an AI Engineer from Georgia working around Agentic AI, Agent Harness, and LLM inference optimization. I focus on building production-grade AI systems that are reliable, scalable, and observable.</h5>
+<h5 align="left">I'm an AI Engineer from Georgia working around Agentic AI, Agent Harness, and LLM inference optimization.I am building production-grade AI systems that are reliable, scalable, and observable.</h5>
 
 
 <strong>Links</strong>  

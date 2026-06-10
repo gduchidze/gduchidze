@@ -4,7 +4,6 @@
 <h4 align="left">
   I'm an AI Engineer from Georgia working around Agentic AI,<br/>
   Agent Harness architectures, and LLM inference optimization.<br/>
-  I build production-grade AI systems that are reliable, scalable, and observable.
 </h4>
 
 <strong>Connect</strong>

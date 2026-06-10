@@ -1,10 +1,11 @@
 <img align="right" height="500" width="270" src="https://media1.tenor.com/m/mfH2YPHAO7gAAAAd/luffy-crying-in-the-rain.gif" />
 
 <strong>About Me</strong>
-<h5 align="left">
-  I'm an AI Engineer from Georgia working around Agentic AI, Agent Harness architectures, and LLM inference optimization.<br/>
+<h4 align="left">
+  I'm an AI Engineer from Georgia working around Agentic AI,<br/>
+  Agent Harness architectures, and LLM inference optimization.<br/>
   I build production-grade AI systems that are reliable, scalable, and observable.
-</h5>
+</h4>
 
 <strong>Connect</strong>
 <div align="left">

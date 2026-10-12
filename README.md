@@ -2,8 +2,8 @@
 
 <strong>About Me</strong>
 <h4 align="left">
-  I'm an AI Engineer from Georgia working around Agentic AI,<br/>
-  Agent Harness architectures, and LLM inference optimization.<br/>
+  I'm an AI Engineer from Georgia working around Applied AI,<br/>
+  and Inference Engineering.<br/>
 </h4>
 
 <strong>Connect</strong>

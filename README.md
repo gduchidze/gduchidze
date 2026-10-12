@@ -2,7 +2,7 @@
 
 <strong>About Me</strong>
 <h4 align="left">
-  I'm an AI Engineer from Georgia working around Applied AI,<br/>
+  I'm an AI Engineer from Georgia working around Applied AI/ML<br/>
   and Inference Engineering.<br/>
 </h4>
 

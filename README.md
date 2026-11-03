@@ -1,5 +1,3 @@
-<img align="right" height="500" width="270" src="https://media1.tenor.com/m/mfH2YPHAO7gAAAAd/luffy-crying-in-the-rain.gif" />
-
 <strong>About Me</strong>
 <h4 align="left">
   I'm an AI Engineer from Georgia

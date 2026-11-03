@@ -2,8 +2,7 @@
 
 <strong>About Me</strong>
 <h4 align="left">
-  I'm an AI Engineer from Georgia working around AI/ML Systems<br/>
-  and Inference Engineering.<br/>
+  I'm an AI Engineer from Georgia
 </h4>
 
 <strong>Connect</strong>
